@@ -95,7 +95,7 @@ p {
   top: 0;
   left: 0;
   transform: translateY(100%);
-  width: 50%;
+  width: 0;
   height: 8px;
   background: var(--color-full-slider);
 }
